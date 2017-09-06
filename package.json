@@ -1,7 +1,7 @@
 {
-  "name": "scssInit",
+  "name": "scss-init",
   "version": "1.0.0",
-  "description": "simple setup for scss",
+  "description": "simple setup for scss - used gulp",
   "main": "index.js",
   "scripts": {
     "test": ""
